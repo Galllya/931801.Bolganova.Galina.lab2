@@ -1,0 +1,18 @@
+.div_2, .div_1{
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+.div_1{
+    background-color: green;
+    width: 500px;
+ 
+}
+.div_2{
+    background-color: blue;
+    width: 540px;
+    padding: 50px;
+    margin-top: 20px;
+
+}

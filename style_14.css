@@ -1,0 +1,43 @@
+#container {
+    display: flex;
+    background-color: aqua;
+    border: 2px solid green;
+    align-items: center;
+}
+
+.div_2 {
+    Align-self:baseline;
+    background-color: bisque;
+    width: 30%;
+}
+
+.div_3 {
+    background-color: darkgray;
+    width: 70%;
+   
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+@media screen and (max-width:1115px){
+
+    .div_2 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    #container{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .div_3{
+        Align-self: flex-start;
+        width: 100%;
+    }
+    ul, li{
+        display: inline;
+    }
+    
+}

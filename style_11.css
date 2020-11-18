@@ -1,0 +1,13 @@
+.div_1{
+    display: flex;
+    position:relative;
+    background-color: aqua;
+    Justify-content: space-between;
+    border: 2px solid green;
+}
+p, img{
+    display: block
+}
+img{
+    right: 0;
+}

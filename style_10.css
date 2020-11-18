@@ -1,0 +1,12 @@
+.div_1{
+    background-color: aquamarine;
+    width: 200px;
+    height: 100px;
+    margin: 20px;
+    float: left;
+}
+.div_2{
+    background-color: bisque;
+    width: 100%;
+    clear: both;
+}

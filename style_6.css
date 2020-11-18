@@ -1,0 +1,18 @@
+.div_2, .div_1{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div_1{
+    width: 500px;
+ 
+}
+.div_2{
+    width: 400px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border: 10px solid blue;
+    margin-top: 20px;
+}

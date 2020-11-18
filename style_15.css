@@ -1,0 +1,29 @@
+.div_1{
+    background-color: aquamarine;
+    height: 80px;
+    width: 10.5%;
+    display: block;
+    margin: 1%;
+    
+}
+.div_2{
+    background-color: bisque;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+@media screen and (max-width:1115px){
+    .div_1{
+        background-color: aquamarine;
+        min-height: 80px;
+        min-width: 200px;
+        display: block;
+        margin: 15px;
+        
+    }
+ 
+    
+}
